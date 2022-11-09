@@ -1,2 +1,2 @@
 # praktikum_git
-Prakitkum 6 Mobile Programming
+Praktikum 6 Mobile Programming
